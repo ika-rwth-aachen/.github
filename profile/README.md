@@ -15,7 +15,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 
 > [!IMPORTANT]  
 > **If you would like to learn more about how you can use our tools or how we can support your efforts in any of these domains, feel free to reach out to us!**  
-> *contact information*
+> :email: ***opensource@ika.rwth-aachen.de***
 
 ## Repositories
 
