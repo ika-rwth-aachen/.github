@@ -1,6 +1,4 @@
-<img src="https://www.ika.rwth-aachen.de/images/ika-logo-a-blau-blau-rgb.svg" align="right" height="60">
-
-# Institute for Automotive Engineering (ika) <br/> RWTH Aachen University
+# Institute for Automotive Engineering (ika) <img src="https://www.ika.rwth-aachen.de/images/ika-logo-a-blau-blau-rgb.svg" align="right" width="300"> <br/> RWTH Aachen University
 
 <img src="https://github.com/ika-rwth-aachen/.github/assets/46258835/a6afc4f2-39f5-4455-aafd-1e6612963c23">
 
