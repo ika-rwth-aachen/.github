@@ -31,15 +31,15 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
-| [CARLOS](https://github.com/ika-rwth-aachen/carlos) | An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS: *Take CARLA simulation to the next level* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/carlos?style=social"/> <br/> [Preprint](http://arxiv.org/abs/2404.01836) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
+| [CARLOS](https://github.com/ika-rwth-aachen/carlos) | An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS: *Take CARLA simulation to the next level* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/carlos?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10588502) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
 
 ### Containerization
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
-| [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) | Microservice-based Development and Deployment: *Containerize your ROS / ROS 2 packages or package stacks for simple deployment* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros?style=social"/> <br/> [Preprint](https://arxiv.org/abs/2309.06611) | <img src="https://github.com/ika-rwth-aachen/docker-ros/blob/main/assets/logo.png?raw=true" width="80" /> |
-| [docker-ros-ml-images](https://github.com/ika-rwth-aachen/docker-ros-ml-images) | Lightweight Docker images for machine learning: *Use our lightweight multi-arch machine learning-enabled ROS Docker images for your development and deployment* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros-ml-images?style=social"/> <br/> [Preprint](https://arxiv.org/abs/2309.06611) | <img src="https://github.com/ika-rwth-aachen/dorotos/blob/main/assets/logo.png?raw=true" width="80" /> |
-| [docker-run](https://github.com/ika-rwth-aachen/docker-run) | Official Docker CLI with useful defaults: *Simplify your container-driven development and deployment by using docker-run for your container interaction* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-run?style=social"/> <br/> [Preprint](https://arxiv.org/abs/2309.06611) | <img src="https://github.com/ika-rwth-aachen/docker-run/blob/main/assets/logo.png?raw=true" width="80" /> |
+| [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) | Microservice-based Development and Deployment: *Containerize your ROS / ROS 2 packages or package stacks for simple deployment* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10611586) | <img src="https://github.com/ika-rwth-aachen/docker-ros/blob/main/assets/logo.png?raw=true" width="80" /> |
+| [docker-ros-ml-images](https://github.com/ika-rwth-aachen/docker-ros-ml-images) | Lightweight Docker images for machine learning: *Use our lightweight multi-arch machine learning-enabled ROS Docker images for your development and deployment* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros-ml-images?style=social"/> <br/>[Paper (2024)](https://ieeexplore.ieee.org/document/10611586) | <img src="https://github.com/ika-rwth-aachen/dorotos/blob/main/assets/logo.png?raw=true" width="80" /> |
+| [docker-run](https://github.com/ika-rwth-aachen/docker-run) | Official Docker CLI with useful defaults: *Simplify your container-driven development and deployment by using docker-run for your container interaction* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-run?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10611586) | <img src="https://github.com/ika-rwth-aachen/docker-run/blob/main/assets/logo.png?raw=true" width="80" /> |
 
 ### Machine Learning
 
@@ -54,6 +54,12 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | --- | --- | :---: | :---: |
 | [acdc](https://github.com/ika-rwth-aachen/acdc) / <br/> [acdc-notebooks](https://github.com/ika-rwth-aachen/acdc-notebooks) | ACDC MOOC: *Gain practical experience in automated driving with coding exercises that teach you the latest methods and tools* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/acdc?style=social"/> <br/> <img src="https://img.shields.io/github/stars/ika-rwth-aachen/acdc-notebooks?style=social"/> <br/> [edX Course](https://www.edx.org/learn/automation/rwth-aachen-university-automated-and-connected-driving-challenges) | <img src="https://pbs.twimg.com/ext_tw_video_thumb/1447574999506771970/pu/img/-02L166C-CeO2UGO.jpg" width="80" /> |
 | [acdc-research-projects](https://github.com/ika-rwth-aachen/acdc-research-projects) | Research projects of ACDC MOOC: *Learn how to apply automated driving-related methods and tools by conducting a research project on your own* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/acdc-research-projects?style=social"/> <br/> [edX Course](https://www.edx.org/learn/automation/rwth-aachen-university-automated-and-connected-driving-challenges) | <img src="https://pbs.twimg.com/ext_tw_video_thumb/1447574999506771970/pu/img/-02L166C-CeO2UGO.jpg" width="80" /> |
+
+### Utilities
+
+| Repository | Description |  | <div style="width:80"></div> | 
+| --- | --- | :---: | :---: |
+| [ros2-pkg-create](https://github.com/ika-rwth-aachen/ros2-pkg-create) | Powerful ROS 2 Package Generator: *Easily generate complex ROS 2 C++ and Python packages* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/ros2-pkg-create?style=social"/> |  |
 
 ## Repositories related to Scientific Publications
 
