@@ -17,15 +17,17 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 > **If you would like to learn more about how you can use our tools or how we can support your efforts in any of these domains, feel free to reach out to us!**  
 > :email: ***opensource@ika.rwth-aachen.de***
 
-## Maintained Repositories
+## Maintained Building Blocks for Automated Driving, SDVs, and C-ITS
 
-### V2X & Communication
+### Interfaces & V2X Communication
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [mqtt_client](https://github.com/ika-rwth-aachen/mqtt_client) | Bi-directional bridge between ROS & MQTT: *Connect your robots running ROS and robustly exchange native ROS messages over any network* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/mqtt_client?style=social"/> <br/> [Paper (2022)](https://ieeexplore.ieee.org/document/9987813) |  |
 | [mqtt-in-docker](https://github.com/ika-rwth-aachen/mqtt-in-docker) | Secure IoT communication with MQTT and Docker: *Learn how to combine the MQTT protocol with Docker and a Public Key Infrastructure for secure IoT communication* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/mqtt-in-docker?style=social"/> |  |
 | [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: *Use standardized ETSI ITS messages for V2X communication in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10920150) | <img src="https://github.com/ika-rwth-aachen/etsi_its_messages/raw/main/assets/teaser.gif" width="80" /> |
+| [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) | ROS message definitions for perception: *Use these ROS messages for the communication of perception data in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/perception_interfaces?style=social"/> |  |
+| [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) | ROS message definitions for behavior planning: *Use these ROS messages for the communication of behavior planning data in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/planning_interfaces?style=social"/> |  |
 
 ### Simulation
 
