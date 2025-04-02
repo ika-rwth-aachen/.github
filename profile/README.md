@@ -25,7 +25,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | --- | --- | :---: | :---: |
 | [mqtt_client](https://github.com/ika-rwth-aachen/mqtt_client) | Bi-directional bridge between ROS & MQTT: *Connect your robots running ROS and robustly exchange native ROS messages over any network* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/mqtt_client?style=social"/> <br/> [Paper (2022)](https://ieeexplore.ieee.org/document/9987813) |  |
 | [mqtt-in-docker](https://github.com/ika-rwth-aachen/mqtt-in-docker) | Secure IoT communication with MQTT and Docker: *Learn how to combine the MQTT protocol with Docker and a Public Key Infrastructure for secure IoT communication* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/mqtt-in-docker?style=social"/> |  |
-| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: *Use standardized ETSI ITS messages for V2X communication in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Preprint](https://arxiv.org/abs/2403.10221) | <img src="https://github.com/ika-rwth-aachen/etsi_its_messages/raw/main/assets/teaser.gif" width="80" /> |
+| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: *Use standardized ETSI ITS messages for V2X communication in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10920150) | <img src="https://github.com/ika-rwth-aachen/etsi_its_messages/raw/main/assets/teaser.gif" width="80" /> |
 
 ### Simulation
 
@@ -84,6 +84,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [RobotKube](https://github.com/ika-rwth-aachen/robotkube) | Fully automated fleet orchestration: *Orchestrate large-scale cooperative multi-robot systems with Kubernetes and the Robot Operating System* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/robotkube?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10422370) | <img src="https://github.com/ika-rwth-aachen/robotkube/blob/main/assets/robotkube_logo.png?raw=true" width="80" /> |
+| [Event Detector](https://github.com/ika-rwth-aachen/event_detector) | ROS 2 event detection framework: *Detect developer-defined events in arbitrary data and trigger consequent developer-defined actions* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/event_detector?style=social"/> <br/> [Paper (2025)](https://www.uni-das.de/images/pdf/fas-workshop/2025/FAS2025-13-Reiher.pdf) |  |
 
 ### Simulation & Safety Assurance
 
