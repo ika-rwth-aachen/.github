@@ -19,7 +19,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 
 ## Maintained Building Blocks for Automated Driving, SDVs, and C-ITS
 
-### V2X Communication & ROS Interfaces
+### Interfaces & V2X Communication
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
