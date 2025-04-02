@@ -86,6 +86,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [RobotKube](https://github.com/ika-rwth-aachen/robotkube) | Fully automated fleet orchestration: *Orchestrate large-scale cooperative multi-robot systems with Kubernetes and the Robot Operating System* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/robotkube?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10422370) | <img src="https://github.com/ika-rwth-aachen/robotkube/blob/main/assets/robotkube_logo.png?raw=true" width="80" /> |
+| [Event Detector](https://github.com/ika-rwth-aachen/event_detector) | ROS 2 event detection framework: *Detect developer-defined events in arbitrary data and trigger consequent developer-defined actions* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/event_detector?style=social"/> <br/> [Paper (2025)](https://www.uni-das.de/images/pdf/fas-workshop/2025/FAS2025-13-Reiher.pdf) |  |
 
 ### Simulation & Safety Assurance
 
