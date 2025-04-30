@@ -43,6 +43,13 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | [docker-ros-ml-images](https://github.com/ika-rwth-aachen/docker-ros-ml-images) | Lightweight Docker images for machine learning: *Use our lightweight multi-arch machine learning-enabled ROS Docker images for your development and deployment* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros-ml-images?style=social"/> <br/>[Paper (2024)](https://ieeexplore.ieee.org/document/10611586) | <img src="https://github.com/ika-rwth-aachen/dorotos/blob/main/assets/logo.png?raw=true" width="80" /> |
 | [docker-run](https://github.com/ika-rwth-aachen/docker-run) | Official Docker CLI with useful defaults: *Simplify your container-driven development and deployment by using docker-run for your container interaction* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-run?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10611586) | <img src="https://github.com/ika-rwth-aachen/docker-run/blob/main/assets/logo.png?raw=true" width="80" /> |
 
+### Orchestration
+
+| Repository | Description |  | <div style="width:80"></div> | 
+| --- | --- | :---: | :---: |
+| [Event Detector](https://github.com/ika-rwth-aachen/event_detector) | ROS 2 event detection framework: *Detect developer-defined events in arbitrary data and trigger consequent developer-defined actions* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/event_detector?style=social"/> <br/> [Paper (2025)](https://www.uni-das.de/images/pdf/fas-workshop/2025/FAS2025-13-Reiher.pdf) |  |
+| [Application Manager](https://github.com/ika-rwth-aachen/application_manager) | Application management framework based on Kubernetes and ROS 2: *Orchestrate demand-driven deployments and reconfigurations* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/application_manager?style=social"/> <br/> |  |
+
 ### Machine Learning
 
 | Repository | Description |  | <div style="width:80"></div> | 
@@ -86,7 +93,6 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [RobotKube](https://github.com/ika-rwth-aachen/robotkube) | Fully automated fleet orchestration: *Orchestrate large-scale cooperative multi-robot systems with Kubernetes and the Robot Operating System* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/robotkube?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10422370) | <img src="https://github.com/ika-rwth-aachen/robotkube/blob/main/assets/robotkube_logo.png?raw=true" width="80" /> |
-| [Event Detector](https://github.com/ika-rwth-aachen/event_detector) | ROS 2 event detection framework: *Detect developer-defined events in arbitrary data and trigger consequent developer-defined actions* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/event_detector?style=social"/> <br/> [Paper (2025)](https://www.uni-das.de/images/pdf/fas-workshop/2025/FAS2025-13-Reiher.pdf) |  |
 
 ### Simulation & Safety Assurance
 
