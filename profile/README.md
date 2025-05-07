@@ -29,11 +29,19 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | [perception_interfaces](https://github.com/ika-rwth-aachen/perception_interfaces) | ROS message definitions for perception: *Use these ROS messages for the communication of perception data in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/perception_interfaces?style=social"/> |  |
 | [planning_interfaces](https://github.com/ika-rwth-aachen/planning_interfaces) | ROS message definitions for behavior planning: *Use these ROS messages for the communication of behavior planning data in ROS systems* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/planning_interfaces?style=social"/> |  |
 
-### Simulation
+### Data Collection
+
+| Repository | Description |  | <div style="width:80"></div> | 
+| --- | --- | :---: | :---: |
+| [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) | Omega-Prime: Data Model, Data Format and Python Library for Handling Ground Truth Traffic Data  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime?style=social"/> | |
+
+### Scenarios & Simulation
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [CARLOS](https://github.com/ika-rwth-aachen/carlos) | An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS: *Take CARLA simulation to the next level* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/carlos?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10588502) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
+| [CRUISE](https://github.com/ika-rwth-aachen/cruise_scenario_concept) | Scenario concept for driving scenarios  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/cruise_scenario_concept?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10186385) | |
+| [simple-scenario](https://github.com/ika-rwth-aachen/simple-scenario) | Quickly generate prototype test scenarios for automated driving  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/simple-scenario?style=social"/> | |
 
 ### Containerization
 
@@ -98,7 +106,6 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 
 | Repository | Description |  | <div style="width:80"></div> |
 | --- | --- | :---: | :---: |
-| [omega_format](https://github.com/ika-rwth-aachen/omega_format) | Object list-based reference data format: *Enable automated algorithms for scenario extraction and validation and verification of ADAS* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega_format?style=social"/> | <img src="https://github.com/ika-rwth-aachen/omega_format/raw/master/omega_format/visualization/ui/icon.svg" width="80" /> |
 | [RoadGeneration](https://github.com/ika-rwth-aachen/roadgeneration) | ASAM OpenDrive map generator: *Generate variations of complex ASAM OpenDRIVE maps using a simplified logical description format* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/simdriver?style=social"/> <br/> [Paper (2020)](https://ieeexplore.ieee.org/document/9294664) <br/> [Paper (2022)](https://ieeexplore.ieee.org/document/9988312) |  |
 | [SimDriver](https://github.com/ika-rwth-aachen/simdriver) | Closed-loop traffic agent model: *Simulate responsive agents in exact and closed-loop microscopic traffic scenarios* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/simdriver?style=social"/> |  |
 | [agent-model-integration](https://github.com/ika-rwth-aachen/agent-model-integration) | Integration of an Agent Model into an Open Simulation Architecture for Scenario-Based Testing of Automated Vehicles: *Deploy driver models in your custom simulation environment* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/agent-model-integration?style=social"/> |  |
