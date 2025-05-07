@@ -33,8 +33,8 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
-| [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) | Omega-Prime: Data Model, Data Format and Python Library for Handling Ground Truth Traffic Data  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime?style=social"/> | |
-| [betterosi](https://github.com/ika-rwth-aachen/betterosi) | betterosi - a python library for reading and writing open-simulation-interface files using betterproto2   | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/betterosi?style=social"/> | |
+| [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) | Data model, data format and Python library for handling ground truth traffic data  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime?style=social"/> | |
+| [betterosi](https://github.com/ika-rwth-aachen/betterosi) | Python library for reading and writing open-simulation-interface files using betterproto2 | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/betterosi?style=social"/> | |
 
 ### Scenarios & Simulation
 
