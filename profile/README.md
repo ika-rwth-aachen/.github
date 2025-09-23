@@ -44,6 +44,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | [CARLOS](https://github.com/ika-rwth-aachen/carlos) | An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS: *Take CARLA simulation to the next level* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/carlos?style=social"/> <br/> [Paper (2024)](https://ieeexplore.ieee.org/document/10588502) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
 | [CRUISE](https://github.com/ika-rwth-aachen/cruise_scenario_concept) | Scenario concept for driving scenarios  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/cruise_scenario_concept?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10186385) | |
 | [simple-scenario](https://github.com/ika-rwth-aachen/simple-scenario) | Quickly generate prototype test scenarios for automated driving  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/simple-scenario?style=social"/> | |
+| [simple-simulation](https://github.com/ika-rwth-aachen/simple-simulation) | Execute simulation runs defined by simple-scenario to develop scenario-based testing methods  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/simple-simulation?style=social"/> | |
 
 ### Containerization
 
