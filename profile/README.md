@@ -33,8 +33,10 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
-| [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) | Data model, data format and Python library for handling ground truth traffic data  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime?style=social"/> | |
-| [betterosi](https://github.com/ika-rwth-aachen/betterosi) | Python library for reading and writing open-simulation-interface files using betterproto2 | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/betterosi?style=social"/> | |
+| [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) | Data model, data format and Python library for handling ground truth traffic data  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime?style=social"/> | <img src="https://github.com/ika-rwth-aachen/omega-prime/blob/main/docs/logo/omega_prime_without_text.png?raw=true" width="60" /> |
+| [omega-prime-trajdata](https://github.com/ika-rwth-aachen/omega-prime-trajdata) | Fork of [trajdata](https://github.com/ika-rwth-aachen/omega-prime-trajdata/blob/main/github.com/NVlabs/trajdata) that includes a converter from motion prediction datasets to [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) and solves some dependency issues  | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime-trajdata?style=social"/> | <img src="https://github.com/ika-rwth-aachen/omega-prime/blob/main/docs/logo/omega_prime_without_text.png?raw=true" width="60" /> |
+| [omega-prime-visibility](https://github.com/ika-rwth-aachen/omega-prime-visibility) | Compute 2D visibility of moving objects for [omega-prime](https://github.com/ika-rwth-aachen/omega-prime) | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/omega-prime-visibility?style=social"/> | <img src="https://github.com/ika-rwth-aachen/omega-prime/blob/main/docs/logo/omega_prime_without_text.png?raw=true" width="60" /> |
+| [betterosi](https://github.com/ika-rwth-aachen/betterosi) | Python library for reading and writing ASAM OSI files using betterproto2 | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/betterosi?style=social"/> | |
 
 ### Scenarios & Simulation
 
