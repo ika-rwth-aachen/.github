@@ -84,7 +84,7 @@ As an institute of [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/)
 | Repository | Description |  | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [ros2-pkg-create](https://github.com/ika-rwth-aachen/ros2-pkg-create) | Powerful ROS 2 Package Generator: *Easily generate complex ROS 2 C++ and Python packages* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/ros2-pkg-create?style=social"/> |  |
-| [ros2_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) | A ROS 2 tool for exporting bags to human-readable files. Supports pluggable export routines to handle any message type. | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/ros2_unbag?style=social"/> | <a href="https://github.com/ika-rwth-aachen/ros2_unbag"><img src="https://github.com/ika-rwth-aachen/ros2_unbag/blob/main/ros2_unbag/ui/assets/badge.svg" width=90 /></a> |
+| [ros2_unbag](https://github.com/ika-rwth-aachen/ros2_unbag) | A ROS 2 tool for exporting bags to human-readable files. Supports pluggable export routines to handle any message type. | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/ros2_unbag?style=social"/> | <a href="https://github.com/ika-rwth-aachen/ros2_unbag"><img src="https://raw.githubusercontent.com/ika-rwth-aachen/ros2_unbag/refs/heads/main/qt_resources/assets/badge.svg" width=90 /></a> |
 | [ros2_calib](https://github.com/ika-rwth-aachen/ros2_calib) | A manual ROS 2 tool for extrinsic calibration LiDAR-Camera calibration. | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/ros2_calib?style=social"/> | <a href="https://github.com/ika-rwth-aachen/ros2_calib"></a> |
 
 
